@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @daveysull
-- 👀 I’m interested in sports and data
 - 🌱 I’m currently learning SQL and Python
 - 📫 Reach me on this
 
